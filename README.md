@@ -1,0 +1,1 @@
+# vgp-istio-kiali-operator
